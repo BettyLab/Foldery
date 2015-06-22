@@ -339,9 +339,7 @@
 
 
 	- (IBAction) changeToRestoreMode: (id) sender
-		{
-		[colorsCollectionView setSelectionIndexes: [NSIndexSet indexSet]];
-		}
+		{[colorsCollectionView setSelectionIndexes: [NSIndexSet indexSet]];}
 
 
 	- (IBAction) addOrRemoveColorItem: (NSSegmentedControl *) sender
