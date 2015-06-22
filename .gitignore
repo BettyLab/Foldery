@@ -1,0 +1,6 @@
+# Per-user IDE configuration files
+Foldery.xcodeproj/project.xcworkspace
+Foldery.xcodeproj/xcuserdata
+
+# OS generated files
+.DS_Store
