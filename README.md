@@ -3,8 +3,8 @@ Copyright © 2014-2015 Manuel Sainz de Baranda y Goñi.
 Released under the terms of the [GNU General Public License v3](http://www.gnu.org/copyleft/gpl.html).
 
 ![alt tag](Screenshots/Main Window.png)
-### What Foldery does?
-It adds color to your folders!  
+### What is Foldery?
+It's a small utility for OS X that adds color to your folders!  
 
 Why to use Finder's color tags only when you can have icons with different colors? Just select the color to apply and then drag your folders onto Foldery's window.  
 
