@@ -29,5 +29,5 @@ CURRENCY|ADDRESS
     * Improved color homogeneity across different display color profiles.
     * Better compatibility with Snow Leopard.
 
-* __v1.0__ _(2013-02-12)_
+* __v1.0__ _(2014-11-12)_
     * Initial release.
