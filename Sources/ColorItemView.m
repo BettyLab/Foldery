@@ -1,9 +1,12 @@
 /* Foldery - ColorItemView.m
- ____      _    _
-|  __|___ | | _| | ___  _ _  _ _
-|  _|/ _ \| |/ _ |/ ._)| '_|/ | | © 2014-2015 Manuel Sainz de Baranda y Goñi.
-|__| \___/|_|\___|\___/|_|  \_. | Released under the terms of the GNU General Public License v3.
-			    /__*/
+   _______     ___    ___
+  /   ___/__  /  /___/	/___ _______ ___
+ /   __/  _ \/	//  _  /  -_)  __/  /  /
+/___/  \____/___/\____/\___/__/ _\__  /
+			       /_____/
+Copyright © 2014-2015 Manuel Sainz de Baranda y Goñi.
+Copyright © 2014-2015 Sofía Ortega Sosa.
+Released under the terms of the GNU General Public License v3. */
 
 #import "ColorItemView.h"
 
