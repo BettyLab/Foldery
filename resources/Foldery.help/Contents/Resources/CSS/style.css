@@ -1,0 +1,30 @@
+body {	font-size: 12px;
+	font-family: "Helvetica", Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: #4F4F4F;
+}
+
+h1 {	font-size: 20px;
+	line-height: 30px;
+	font-weight: 300 bold;
+	margin: 0;
+	color: black;
+}
+
+h2 {	font-size: 14px;
+	line-height: 16px;
+	font-weight: bold;
+	margin-left: 5px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	color: black;
+}
+
+div {	border-width: 1px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: #EFEFEF;
+	padding: 10px 10px;
+	border-radius: 5px;
+	margin: 5px;
+	box-shadow: 1px 1px 1px #888888;
+}

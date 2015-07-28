@@ -1,0 +1,10 @@
+/* Foldery - Localizable.strings (es)
+ ____      _    _
+|  __|___ | | _| | ___  _ _  _ _
+|  _|/ _ \| |/ _ |/ ._)| '_|/ | | © 2014 Manuel Sainz de Baranda y Goñi.
+|__| \___/|_|\___|\___/|_|  \_. | All rights reserved.
+			    /__*/
+
+"Tint"	  = "Suelta carpetas aquí\npara teñirlas de este color";
+"Restore" = "Suelta carpetas aquí\npara restaurar su icono original";
+"MyIcon"  = "Mi icono";
