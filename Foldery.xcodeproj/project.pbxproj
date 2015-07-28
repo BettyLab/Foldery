@@ -41,7 +41,7 @@
 		6498F93118A047DA0016FCCA /* NSImage+CocoPlus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSImage+CocoPlus.h"; sourceTree = "<group>"; };
 		6498F93218A047DA0016FCCA /* NSImage+CocoPlus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSImage+CocoPlus.m"; sourceTree = "<group>"; };
 		6498F93318A047DA0016FCCA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6498F93418A047DA0016FCCA /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
+		6498F93418A047DA0016FCCA /* prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = prefix.pch; sourceTree = "<group>"; };
 		649FE76418A040C700A7D344 /* Foldery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Foldery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		649FE76818A040C700A7D344 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		649FE76B18A040C700A7D344 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -77,7 +77,7 @@
 		6498F92118A045F60016FCCA /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				6498F93418A047DA0016FCCA /* Prefix.pch */,
+				6498F93418A047DA0016FCCA /* prefix.pch */,
 				6498F93318A047DA0016FCCA /* main.m */,
 				6498F92718A047DA0016FCCA /* Controller.h */,
 				6498F92818A047DA0016FCCA /* Controller.m */,
@@ -360,8 +360,8 @@
 				CODE_SIGN_ENTITLEMENTS = Foldery.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = Sources/Prefix.pch;
-				INFOPLIST_FILE = Resources/Info.plist;
+				GCC_PREFIX_HEADER = sources/prefix.pch;
+				INFOPLIST_FILE = resources/Info.plist;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -373,8 +373,8 @@
 				CODE_SIGN_ENTITLEMENTS = Foldery.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = Sources/Prefix.pch;
-				INFOPLIST_FILE = Resources/Info.plist;
+				GCC_PREFIX_HEADER = sources/prefix.pch;
+				INFOPLIST_FILE = resources/Info.plist;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
