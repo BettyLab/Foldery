@@ -2,7 +2,7 @@
 Copyright © 2014-2015 Manuel Sainz de Baranda y Goñi.  
 Released under the terms of the [GNU General Public License v3](http://www.gnu.org/copyleft/gpl.html).
 
-![alt tag](Screenshots/Main Window.png)
+![alt tag](screenshots/Main Window.png)
 ### What is Foldery?
 It's a small utility for OS X that adds color to your folders!  
 

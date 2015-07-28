@@ -94,7 +94,8 @@
 				6498F93118A047DA0016FCCA /* NSImage+CocoPlus.h */,
 				6498F93218A047DA0016FCCA /* NSImage+CocoPlus.m */,
 			);
-			path = Sources;
+			name = Sources;
+			path = sources;
 			sourceTree = "<group>";
 		};
 		649FE75918A040C700A7D344 = {
@@ -147,7 +148,8 @@
 				649FE77118A040C700A7D344 /* InfoPlist.strings */,
 				64E5DA6D18A1651000910523 /* Localizable.strings */,
 			);
-			path = Resources;
+			name = Resources;
+			path = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
