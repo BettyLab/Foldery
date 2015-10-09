@@ -131,7 +131,7 @@ NS_INLINE NSImageRep *FindRepresentation(
 
 				bitmap.size = NSMakeSize(size, size);
 
-				NSData *PNG = [bitmap representationUsingType: NSPNGFileType properties: nil];
+				NSData *PNG = [bitmap representationUsingType: NSPNGFileType properties: @{}];
 
 			[NSGraphicsContext restoreGraphicsState];
 

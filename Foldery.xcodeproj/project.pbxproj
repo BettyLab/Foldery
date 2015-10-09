@@ -238,7 +238,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "buildNumber=($(/usr/libexec/PlistBuddy -c \"Print CFBundleVersion\" \"${PROJECT_DIR}/Resources/Info.plist\" | tr . \\\\n));\nbuildNumber=$(date +\"%Y\").$((${buildNumber[1]} + 1))\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $buildNumber\" \"${PROJECT_DIR}/Resources/Info.plist\"";
+			shellScript = "buildNumber=($(/usr/libexec/PlistBuddy -c \"Print CFBundleVersion\" \"${PROJECT_DIR}/resources/Info.plist\" | tr . \\\\n));\nbuildNumber=$(date +\"%Y\").$((${buildNumber[1]} + 1))\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $buildNumber\" \"${PROJECT_DIR}/resources/Info.plist\"";
 		};
 /* End PBXShellScriptBuildPhase section */
 
