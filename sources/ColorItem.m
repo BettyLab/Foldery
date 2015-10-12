@@ -2,10 +2,8 @@
    _______     ___    ___
   /   ___/__  /  /___/	/___ _______ ___
  /   __/  _ \/	//  _  /  -_)  __/  /  /
-/___/  \____/___/\____/\___/__/ _\__  /
-			       /_____/
-Copyright © 2014-2015 Manuel Sainz de Baranda y Goñi.
-Copyright © 2014-2015 Sofía Ortega Sosa.
+/___/  \____/___/\____/\___/__/  \__  /
+Copyright © 2014-2015 Betty Lab. /___/
 Released under the terms of the GNU General Public License v3. */
 
 #import "ColorItem.h"

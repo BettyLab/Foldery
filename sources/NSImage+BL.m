@@ -1,13 +1,12 @@
-// CocoPlus - NSImage+CocoPlus.m
-//   ___	       , __
-//  / (_)	      /|/  \ |\
-// |	  __   __  __  |___/ | |	__
-// |	 / (\_/   / (\_|     |/  |  |  / _\_
-//  \___/\__/ \__/\__/ | ___/|__/|_/|_/  \/
-// Copyright © 2013-2014 Manuel Sainz de Baranda y Goñi.
-// Released under the terms of the GNU Lesser General Public License v3.
+/* Betty Lab's Cocoa Extensions - NSImage+BL.m
+   ____        ___  ___		  ____	       ___ 
+  /  _ ) ____ /  /_/  /_ __ __	 /   / _____  /  /
+ /  _  \/  -_)	__/  __/  /  /	/   /_/  _  //	_ \
+/______/\___/\__/ \__/ \__  /  /_____/\___,_/_____/
+© 2011-2015 Betty Lab. /___/
+Released under the terms of the GNU Lesser General Public License v3. */
 
-#import "NSImage+CocoPlus.h"
+#import "NSImage+BL.h"
 #import <QuartzCore/CoreImage.h>
 
 #define kIconFormatCount 10

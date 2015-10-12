@@ -13,8 +13,8 @@
 		6498F93618A047DA0016FCCA /* ColorItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 6498F92A18A047DA0016FCCA /* ColorItem.m */; };
 		6498F93718A047DA0016FCCA /* ColorItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6498F92C18A047DA0016FCCA /* ColorItemView.m */; };
 		6498F93818A047DA0016FCCA /* DropView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6498F92E18A047DA0016FCCA /* DropView.m */; };
-		6498F93918A047DA0016FCCA /* NSColor+CocoPlus.m in Sources */ = {isa = PBXBuildFile; fileRef = 6498F93018A047DA0016FCCA /* NSColor+CocoPlus.m */; };
-		6498F93A18A047DA0016FCCA /* NSImage+CocoPlus.m in Sources */ = {isa = PBXBuildFile; fileRef = 6498F93218A047DA0016FCCA /* NSImage+CocoPlus.m */; };
+		6498F93918A047DA0016FCCA /* NSColor+BL.m in Sources */ = {isa = PBXBuildFile; fileRef = 6498F93018A047DA0016FCCA /* NSColor+BL.m */; };
+		6498F93A18A047DA0016FCCA /* NSImage+BL.m in Sources */ = {isa = PBXBuildFile; fileRef = 6498F93218A047DA0016FCCA /* NSImage+BL.m */; };
 		6498F93B18A047DA0016FCCA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6498F93318A047DA0016FCCA /* main.m */; };
 		649FE76918A040C700A7D344 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 649FE76818A040C700A7D344 /* Cocoa.framework */; };
 		649FE77318A040C700A7D344 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 649FE77118A040C700A7D344 /* InfoPlist.strings */; };
@@ -36,10 +36,10 @@
 		6498F92C18A047DA0016FCCA /* ColorItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorItemView.m; sourceTree = "<group>"; };
 		6498F92D18A047DA0016FCCA /* DropView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropView.h; sourceTree = "<group>"; };
 		6498F92E18A047DA0016FCCA /* DropView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropView.m; sourceTree = "<group>"; };
-		6498F92F18A047DA0016FCCA /* NSColor+CocoPlus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSColor+CocoPlus.h"; sourceTree = "<group>"; };
-		6498F93018A047DA0016FCCA /* NSColor+CocoPlus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSColor+CocoPlus.m"; sourceTree = "<group>"; };
-		6498F93118A047DA0016FCCA /* NSImage+CocoPlus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSImage+CocoPlus.h"; sourceTree = "<group>"; };
-		6498F93218A047DA0016FCCA /* NSImage+CocoPlus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSImage+CocoPlus.m"; sourceTree = "<group>"; };
+		6498F92F18A047DA0016FCCA /* NSColor+BL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSColor+BL.h"; sourceTree = "<group>"; };
+		6498F93018A047DA0016FCCA /* NSColor+BL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSColor+BL.m"; sourceTree = "<group>"; };
+		6498F93118A047DA0016FCCA /* NSImage+BL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSImage+BL.h"; sourceTree = "<group>"; };
+		6498F93218A047DA0016FCCA /* NSImage+BL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSImage+BL.m"; sourceTree = "<group>"; };
 		6498F93318A047DA0016FCCA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6498F93418A047DA0016FCCA /* prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = prefix.pch; sourceTree = "<group>"; };
 		649FE76418A040C700A7D344 /* Foldery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Foldery.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -89,10 +89,10 @@
 				6498F92A18A047DA0016FCCA /* ColorItem.m */,
 				6498F92B18A047DA0016FCCA /* ColorItemView.h */,
 				6498F92C18A047DA0016FCCA /* ColorItemView.m */,
-				6498F92F18A047DA0016FCCA /* NSColor+CocoPlus.h */,
-				6498F93018A047DA0016FCCA /* NSColor+CocoPlus.m */,
-				6498F93118A047DA0016FCCA /* NSImage+CocoPlus.h */,
-				6498F93218A047DA0016FCCA /* NSImage+CocoPlus.m */,
+				6498F92F18A047DA0016FCCA /* NSColor+BL.h */,
+				6498F93018A047DA0016FCCA /* NSColor+BL.m */,
+				6498F93118A047DA0016FCCA /* NSImage+BL.h */,
+				6498F93218A047DA0016FCCA /* NSImage+BL.m */,
 			);
 			name = Sources;
 			path = sources;
@@ -252,8 +252,8 @@
 				64F0BE311A044BEC00F15969 /* RestoreButton.m in Sources */,
 				6498F93718A047DA0016FCCA /* ColorItemView.m in Sources */,
 				6498F93818A047DA0016FCCA /* DropView.m in Sources */,
-				6498F93918A047DA0016FCCA /* NSColor+CocoPlus.m in Sources */,
-				6498F93A18A047DA0016FCCA /* NSImage+CocoPlus.m in Sources */,
+				6498F93918A047DA0016FCCA /* NSColor+BL.m in Sources */,
+				6498F93A18A047DA0016FCCA /* NSImage+BL.m in Sources */,
 				6498F93B18A047DA0016FCCA /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

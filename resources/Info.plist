@@ -25,13 +25,13 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>2015.55</string>
+	<string>2015.60</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.utilities</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>${MACOSX_DEPLOYMENT_TARGET}</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2014-2015 Manuel Sainz de Baranda y Goñi.
+	<string>Copyright © 2014-2015 Betty Lab. All rights reserved.
 © 2014-2015 Sofía Ortega Sosa.
 Released under the terms of the GNU General Public License v3.</string>
 	<key>NSMainNibFile</key>
