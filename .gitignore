@@ -1,6 +1,11 @@
 # Per-user IDE configuration files
+<<<<<<< HEAD
 Foldery.xcodeproj/project.xcworkspace
 Foldery.xcodeproj/xcuserdata
+=======
+Mines.xcodeproj/project.xcworkspace
+Mines.xcodeproj/xcuserdata
+>>>>>>> 0b8fbb412978cd4bbc2febc8530086ba325d1bf2
 
 # OS generated files
 .DS_Store
