@@ -180,6 +180,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Betty Lab";
 				TargetAttributes = {
 					649FE76318A040C700A7D344 = {
 						SystemCapabilities = {
